@@ -1,2 +1,7 @@
 h1{ background-color: blue;}
 h2{text-align: center;}
+table{
+    background-color: blueviolet;
+    text-decoration: none;
+    text-align: center;
+}
